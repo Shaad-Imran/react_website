@@ -1,8 +1,5 @@
 <div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Shaad-Imran/react_website)
-<br/>
-
 <h2 align="center"> GPT-3 - A React Website</h2>
 
 GPT-3 is a fully responsive React website,<br/> Maximum compatiblities in all mobile devices.
